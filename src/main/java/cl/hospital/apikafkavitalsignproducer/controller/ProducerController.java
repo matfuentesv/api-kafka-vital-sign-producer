@@ -17,7 +17,7 @@ public class ProducerController {
     @PostMapping("/send")
     public ResponseEntity<String> sendVitalSigns(@RequestBody VitalSigns vitalSigns) throws JsonProcessingException {
         producerService.sendMessage(vitalSigns);
-        return ResponseEntity.ok("Alerta enviada a RabbitMQ.");
+        return ResponseEntity.ok("Alerta enviada a Kafka.");
     }
 }
 
