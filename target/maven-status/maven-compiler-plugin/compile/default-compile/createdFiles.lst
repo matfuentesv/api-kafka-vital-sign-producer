@@ -1,0 +1,5 @@
+cl\hospital\apikafkavitalsignproducer\config\KafkaProducerConfig.class
+cl\hospital\apikafkavitalsignproducer\controller\ProducerController.class
+cl\hospital\apikafkavitalsignproducer\services\KafkaProducerService.class
+cl\hospital\apikafkavitalsignproducer\ApiKafkaVitalSignProducerApplication.class
+cl\hospital\apikafkavitalsignproducer\model\VitalSigns.class

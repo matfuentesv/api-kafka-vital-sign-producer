@@ -1,0 +1,5 @@
+C:\Desarrollo Cloud I\kafka\api-kafka-vital-sign-producer\src\main\java\cl\hospital\apikafkavitalsignproducer\ApiKafkaVitalSignProducerApplication.java
+C:\Desarrollo Cloud I\kafka\api-kafka-vital-sign-producer\src\main\java\cl\hospital\apikafkavitalsignproducer\config\KafkaProducerConfig.java
+C:\Desarrollo Cloud I\kafka\api-kafka-vital-sign-producer\src\main\java\cl\hospital\apikafkavitalsignproducer\controller\ProducerController.java
+C:\Desarrollo Cloud I\kafka\api-kafka-vital-sign-producer\src\main\java\cl\hospital\apikafkavitalsignproducer\model\VitalSigns.java
+C:\Desarrollo Cloud I\kafka\api-kafka-vital-sign-producer\src\main\java\cl\hospital\apikafkavitalsignproducer\services\KafkaProducerService.java
