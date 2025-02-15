@@ -13,7 +13,7 @@ public class KafkaProducerService {
     @Autowired
     private KafkaTemplate<String, String> kafkaTemplate;
 
-    private static final String TOPIC = "orders";
+    private static final String TOPIC = "senVitales";
     private final ObjectMapper objectMapper = new ObjectMapper();
 
     public void sendMessage(VitalSigns vitalSigns) throws JsonProcessingException {
